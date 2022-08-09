@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "node . --autocleartmp --db 'mongodb+srv://krzz:krzzlpzz@cdabot.pt8zo.mongodb.net/?retryWrites=true&w=majority' --no-warnings"
